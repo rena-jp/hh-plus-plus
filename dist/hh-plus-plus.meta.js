@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Hentai Heroes++ BDSM version
+// @name            Hentai Heroes++ BDSM version (Harem optimization)
 // @description     Adding things here and there in the Hentai Heroes game. Also supports HHCore-based games such as GH and CxH.
 // @version         1.39.6
 // @match           https://*.hentaiheroes.com/*
@@ -12,8 +12,8 @@
 // @match           https://*.gaypornstarharem.com/*
 // @run-at          document-body
 // @namespace       https://github.com/zoop0kemon/hh-plus-plus
-// @updateURL       https://raw.githubusercontent.com/zoop0kemon/hh-plus-plus/main/dist/hh-plus-plus.user.js
-// @downloadURL     https://raw.githubusercontent.com/zoop0kemon/hh-plus-plus/main/dist/hh-plus-plus.user.js
+// @updateURL       https://raw.githubusercontent.com/rena-jp/hh-plus-plus/harem-optimization-test/dist/hh-plus-plus.meta.js
+// @downloadURL     https://raw.githubusercontent.com/rena-jp/hh-plus-plus/harem-optimization-test/dist/hh-plus-plus.user.js
 // @grant           none
 // @author          45026831 (Numbers), zoopokemon
 // ==/UserScript==
